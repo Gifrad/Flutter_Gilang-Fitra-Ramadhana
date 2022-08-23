@@ -10,13 +10,14 @@ aplikasi yang di hasilakan.
 - Swift untuk IOS
 
 
-2. 3 aplikasi android tidak bisa untuk IOS?
- 
-aplikasi IOS tidak bisa untuk Android?
+2. 3 aplikasi android tidak bisa untuk IOS?<br>
+   3aplikasi IOS tidak bisa untuk Android?
+
 android tidak untuk IOS
 - Clean Master
 - Airdroid
 - Opeara Max
+
 Ios tidak untuk Android
 - iMovie
 - Bear
