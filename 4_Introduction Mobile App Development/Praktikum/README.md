@@ -5,7 +5,7 @@
 aplikasi yang di hasilakan.
 - Kotlin untuk Android
 - Java Untuk Android
-- Dart untuk Android,IOS,Desktop,Mobile
+- Dart untuk Android,IOS,Desktop,Web
 - React Native untuk Android dan IOS
 - Swift untuk IOS
 
@@ -22,3 +22,7 @@ Ios tidak untuk Android
 - iMovie
 - Bear
 - El
+
+
+
+Berikut link google Docs pengerjaan Praktikum pada materi Introduction Mobile App Development (https://docs.google.com/document/d/1yVl4cNX8zhde6DrohVHp3-c-xwya-LMEmFrKpuk8e2I/edit#heading=h.aopuv5fcb5bn)
