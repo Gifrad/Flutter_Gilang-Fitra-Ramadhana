@@ -1,0 +1,34 @@
+# Resume Materi KMFlutter – Basic Dart Programming
+## Tuliskan 3 poin yang dipelajari 
+
+1. Operator
+
+operator adalah digunakan sebagai opearsi pengelolaan data , data yang di kelola disebut operand.
+
+macam-macam operator
+- Aritmatika (+ , -, /, *, %)
+- Assigment (= , +=, -+, *=, /=, %=)
+- Komparasi (== , <, >, <=, >=)
+- Logika (&&, ||, !)
+
+2. Async-Await
+
+Async-Await adalah suatu cara untuk melakukan prosess yang berjalan tanpa memperdulikan proses lain nya, biasanya saya menyebut nya background thread.
+ada juga yang namanya ui thread dimana ui thread adalah proses yang berjalan secara statis.
+lain hal dengan background thread (async await) dimana ketika proses ini berjalan bisa dengan menunggu proses ini selesai atau tidak menunggu proses ini selesai.
+ketika kita menggunakan async tanpa await pada suatu function , maka output yang di hasilkan adalah proses async ini akan di jalankan belakangan atau tidak menunggu.
+jika kita menggunakan async dengan await pada suatu function , maka proses ini akan berjalan dengan menunggu proses ini selesai baru proses selanjutnya boleh berjalan.
+
+
+3. List & Map
+
+- List adalah suatu collection data secara berurutan di dalam bahasa pemograman dart yang di baca sesuai index.
+dimana index ini dibaca dari angka nol[0].
+untuk membuat suatu List kita menggunakan kata kunci kurung buka kurung tutup "[]"
+untuk memasukan data nya kita menggunakan "List.add()", sedangkan untuk mmemanggil data nya kita menggunakan "print(List[0])" dengan menggunakan index value nya
+
+- Map adalah suatu collection data seperti List yang menggunakan "key-value" , dimana key ini bisa kita sebut di dalam List adalah index.
+untuk membuat Map dengan menggunkan kata kunci kurung kurawal "{}".
+untuk memasukan data nya kita menggunakan "Map[key] = value", 
+untuk memanggil data nya kita menggunakan "print(Map[key])"
+
