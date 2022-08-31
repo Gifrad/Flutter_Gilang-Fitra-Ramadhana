@@ -39,7 +39,7 @@ Hasil output
 Code
 
 ```dart
-int factorial(int value){
+double factorial(double value){
   if(value == 1){
     return 1;
   }else{
@@ -56,4 +56,4 @@ void main(){
 
 Hasil Output
 
-![alt](../screnshot/part2.png)
+![alt](../screnshot/part3.png)

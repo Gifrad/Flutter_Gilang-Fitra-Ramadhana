@@ -1,4 +1,4 @@
-int factorial(int value){
+double factorial(double value){
   if(value == 1){
     return 1;
   }else{
