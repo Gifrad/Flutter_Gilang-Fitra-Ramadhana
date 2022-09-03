@@ -43,20 +43,20 @@ Code Program dari Soal di atas
 
 ```dart
 void main() {
-  List<int> date = [21,22,23,24];
-  List<String> dayName = ['mon','sat','fri','sun'];
-  Map day = {
-    'date' : date,
-    'dayName' : dayName,
-  };
+    var book = [
+    ['dart',001],
+    ['Kotlin', 002],
+    ['java', 002]
+  ];
 
-  List list = [day];
+  var order = book.map((e) {
+    return {e[0]:e[1]};
+  } );
 
-  print(list);
-  
+  print(order);
 }
 ```
 
 Hasil dari Code Program di atas
 
-![alt](../screnshot/part2.png)
+![alt](../screnshot/part3.png)
