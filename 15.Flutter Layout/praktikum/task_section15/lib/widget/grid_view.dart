@@ -12,12 +12,10 @@ class GridViewContent extends StatelessWidget {
   Widget build(BuildContext context) {
     return ClipRRect(
       borderRadius: BorderRadius.circular(100),
-      child: SizedBox(
-        child: ElevatedButton(
-          onPressed: (){},
-          child: Icon(
-            icon
-          ),
+      child: ElevatedButton(
+        onPressed: (){},
+        child: Icon(
+          icon
         ),
       ),
     );
